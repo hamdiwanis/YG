@@ -4,7 +4,7 @@
     <appDescription>update me</appDescription>
     <packageName>com.droiders.yallagam3a</packageName>
     <versionCode>3</versionCode>
-    <versionName>3</versionName>
+    <versionName>3.0</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
     <apkUrl>https://raw.githubusercontent.com/hamdiwanis/YG/master/com.droiders.yallagam3a%20.apk</apkUrl>
