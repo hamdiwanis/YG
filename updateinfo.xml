@@ -3,8 +3,8 @@
     <appName>YallaGam3a</appName>
     <appDescription>update me</appDescription>
     <packageName>com.droiders.yallagam3a</packageName>
-    <versionCode>2</versionCode>
-    <versionName>2.0</versionName>
+    <versionCode>3</versionCode>
+    <versionName>3.0</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
     <apkUrl>https://raw.githubusercontent.com/hamdiwanis/YG/master/com.droiders.yallagam3a-v1.apk</apkUrl>
