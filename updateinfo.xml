@@ -7,7 +7,7 @@
     <versionName>3.0</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/hamdiwanis/YG/master/com.droiders.yallagam3a-v1.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/hamdiwanis/YG/master/com.droiders.yallagam3a.apk</apkUrl>
     <updateTips>
         <default>Update to newer version?</default>
         <en>my update tips</en>
